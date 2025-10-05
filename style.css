@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'buttermilk', sans-serif;
+    font-family: 'buttermilk';
 }
 
 html, body{
@@ -31,8 +31,8 @@ h1{
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: buttermilk;
-    fount-weight: 100;
-    fount-size: 190px;
-    color: #fff;
+    fount-weight: 200;
+    fount-size: 40vw;
+    color: #ffffff;
     mix-blend-mode: difference;
 }
