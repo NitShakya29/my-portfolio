@@ -31,8 +31,8 @@ h1{
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: buttermilk;
-    fount-weight: 200;
-    fount-size: 500px;
+    font-weight: 100;
+    font-size: 80px;
     color: #ffffff;
     mix-blend-mode: difference;
 }
